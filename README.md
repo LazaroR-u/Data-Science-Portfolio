@@ -5,6 +5,5 @@ En este repositorio se encuentran proyectos de análisis de datos, donde se apli
 - K-Neighrest Neighbor 
 - Random Forest
 - Logistic Regression 
-- Ortega Estrada Ismael
 - Linear and Polynomial Regression
 - Neural Networks
